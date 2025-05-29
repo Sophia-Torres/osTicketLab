@@ -1,4 +1,7 @@
-# osTicketLab
+# osTicket Helpdesk Simulation Lab
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
 
   - [Overview](https://github.com/Sophia-Torres/osticket-overview)
   - [Prerequisites and Installation](https://github.com/Sophia-Torres/osticket-prereqs)
